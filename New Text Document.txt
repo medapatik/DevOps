@@ -1,0 +1,47 @@
+https://git-scm.com/downloads
+
+http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide#323764
+
+https://github.com/login
+
+git config --global user.email <email id>
+
+git config --gloabal user.name "username"
+
+git init
+
+git clone "https://github.com/medapatik/DevOps.git"
+
+git branch
+git status
+git status -s
+git commit -m "my first commit"  --wrong --
+git add readme.md
+
+git log
+
+git push origin master
+
+git pull origin master
+
+git banch
+git branch
+git checkout develop
+
+
+--
+--
+
+ls -l .git\refs\heads\
+dir -l .git\refs\heads\
+
+cat .git/refs/heads/master
+cat .git/refs/heads/develop
+cat .git/config
+
+
+
+
+
+
+
